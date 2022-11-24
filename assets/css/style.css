@@ -1,0 +1,21 @@
+body {
+  background-image:repeating-radial-gradient( rgb(226, 114, 217), whitesmoke);
+}
+
+header {
+  display:flex;
+  justify-content: center;
+  background-image: linear-gradient(rgb(230, 114, 220), rgb(190, 187, 206));
+  color:whitesmoke;
+}
+
+.form-group label {
+  display:flex;
+  justify-content: center;
+}
+
+.card {
+margin-top: 20px;
+background-image: linear-gradient( rgb(224, 106, 209), #f36de1);
+}
+
