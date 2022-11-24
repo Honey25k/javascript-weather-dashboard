@@ -13,7 +13,7 @@ You will also be able to view the city in your search history
 
 ## Screenshot: 
 
-![portfolio screenshot](/assets/screenshot1.png.jpg) 
+![portfolio screenshot](/assets/screenshot1.png) 
 
 ## Link to deployed application: 
 
