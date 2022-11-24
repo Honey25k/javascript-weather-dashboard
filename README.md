@@ -17,4 +17,6 @@ You will also be able to view the city in your search history
 
 ## Link to deployed application: 
 
+https://honey25k.github.io/javascript-weather-dashboard/
+
  
